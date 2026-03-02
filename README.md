@@ -12,7 +12,7 @@ When building a custom OS like OmlicxOS, choosing the right hardware is crucial.
 - **Graphics that Pop**: The GPU in the Pixel 3a delivers crisp visuals and responsive rendering. Whether it’s a slick launcher, smooth animations, or graphical apps, this phone handles it with style. OmlicxOS brings the power of Linux and Android together, and the Pixel 3a ensures it looks gorgeous while doing it.  
 - **Developer-Friendly**: Unlocking, flashing, testing—everything is easier with this device. It’s well-supported, well-documented, and built to let developers push boundaries without hitting roadblocks. Perfect for custom kernels, Halium integration, and Ubuntu ARM experiments.  
 - **Hardware Integration**: Cameras, sensors, GPS, Wi-Fi, Bluetooth—this device has it all. Every piece of hardware is accessible, and every feature can be optimized for performance and efficiency. OmlicxOS leverages this to bring a seamless mobile Linux experience.  
-- **Compact and Sleek**: Radical doesn’t mean bulky. The Pixel 3a is lightweight, ergonomic, and fits perfectly into the vision of OmlexOS—a modern, sleek OS on modern, sleek hardware.
+- **Compact and Sleek**: Radical doesn’t mean bulky. The Pixel 3a is lightweight, ergonomic, and fits perfectly into the vision of OmlicxOS—a modern, sleek OS on modern, sleek hardware.
 
 ---
 
