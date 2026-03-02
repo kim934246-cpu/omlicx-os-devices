@@ -1,6 +1,6 @@
 # OmlicxOS Device - Google Pixel 3a
 
-Welcome to the **OmlexOS Pixel 3a Device Repo**—the heart and soul of the OmlexOS mobile OS. This isn’t just any device support repo; this is the backbone that powers everything from smooth graphics rendering to flawless hardware integration, all while keeping your phone radical and street-ready.
+Welcome to the **OmlicxOS Pixel 3a Device Repo**—the heart and soul of the OmlexOS mobile OS. This isn’t just any device support repo; this is the backbone that powers everything from smooth graphics rendering to flawless hardware integration, all while keeping your phone radical and street-ready.
 
 ---
 
